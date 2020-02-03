@@ -2,4 +2,6 @@ response_channels_init.py
 guild_id_list.pkl
 test.py
 guild_join_log.txt
+pkl/
 .pkl
+.pkl/*
